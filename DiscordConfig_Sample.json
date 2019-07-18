@@ -3,6 +3,7 @@
         "token":"Discord Bot Token",
         "Debug":"Debug and AdminUser"
     },
+{
     "Image":{
         "Path":"Image/",
         "Latest":"None"
